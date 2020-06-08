@@ -1,6 +1,10 @@
 ---
-published: false
 layout: post
+title: "Reference for SSL in Apache for a local instance"
+author: "Gamliel Baruch"
+categories: documentation
+tags: [Apache,SSL,PoC]
+image: openssl.png
 ---
 
 ![openssl.png]({{site.baseurl}}/blog/assets/img/openssl.png)
